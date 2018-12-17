@@ -48,8 +48,7 @@ käytäänteillä on myös vaikutusta, kehittäjät vastaavat laadukkaasta loppu
 
 4.
 
-Kanditaattitutkielmassa “Ryhmätyö ohjelmistokehityksessä” Kenny Heinonen kirjoittaa ihmisen luonteen ja kommunikointitaitojen
-vaikutuksesta ryhmätöhön.
+Kanditaattitutkielmassa “Ryhmätyö ohjelmistokehityksessä” Kenny Heinonen kirjoittaa ihmisen luonteen ja kommunikointitaitojen vaikutuksesta ryhmätöhön.
 
 Ohjelmistokehitys on monimutkaista ja useimmiten yksittäisellä henkilöllä ei ole kaikkea tarvittavaa osaamista projektin
 toteuttamiseen. Ryhmässä työskennellessä toiminnan täytyy olla järjestelmällistä ja kommunikointi sujuvaa.
@@ -57,7 +56,30 @@ toteuttamiseen. Ryhmässä työskennellessä toiminnan täytyy olla järjestelm�
 Ryhmän hyvä yhteistyö riippuu keskenäisestä kommunikoinnista ja jäsenistä itsessään. Jos henkilö tekee käytöksellään
 yhteistyöstä epämiellyttävää ei hän ole mieluisa työkumppani ja produktiivisuus laskee.
 
-Ihmisen persoonallisuudella on myös oma vaikutuksensa. Heinonen puhuu siitä kuinka erilaiset luonteenpiirteet omaavat ihmiset
-ovat luonnostaan parempia joissakin ohjelmistotuotannon vaiheissa.
+Ihmisen persoonallisuudella on myös oma vaikutuksensa. Heinonen puhuu siitä kuinka erilaiset luonteenpiirteet omaavat ihmiset ovat luonnostaan parempia joissakin ohjelmistotuotannon vaiheissa.
 
 5.
+
+Kanditaattitutkielmassa “Johtaminen perinteisissä ja ketterissä ohjelmistoprojekteissa” Eero-Veikko Laine kirjoittaa 
+siitä kuinka ohjelmistoprojektien johtaminen eroaa vahvasti toisistaan perinteisissä ja ketterissä ohjelmistoprojekteissa.
+
+Perinteisiin menetelmiin perustuvassa ohjelmistokehityksessä johtaminen on aivan eri asemassa kuin ketterissä malleissa.
+Perinteisissä malleissa johtaminen on projektipäällikön vastuulla. 
+
+Ketterissä mentelmissä asia on radikaalisti erilainen, johtamisvastuu on jaettu projektitiimin jäsenille ja kaikkien jäsenten oletetaan osallistuvan päätöksentekoon. Itseohjautuvat tiimit ja jaettu johtajuus tarkoittaa että ryhmän päätösvalta menee yksilön päätösten edelle.
+
+Ketterät menetelmät ovat luoneet uuden idean projektijohtamisesta. Muun muassa yhteydenpito asiakkaaseen ja tiimin
+valmentaminen ovat ketterissä menetelmissä projektijohtamisen ydintä.
+
+6.
+
+Kanditaattitutkielmassa “Jatkuva eksperimentointi ohjelmistokehityksen tukena” Esa Kortelainen kirjoittaa eksperimoinnin
+määreestä ohjelmistotuotantoon liittyen ja syitä jatkuvaa eksperimointia käyttävään tuotantoon siirtymiseen.
+
+Oikeisiin suuntiin kohdistuminen tuotannossa on tärkeää sillä jos yrityksen tuottama ohjelmisto ei vastaa asiakkaan tarpeita
+ei siitä ole hyötyä kenellekkään siksi jos halutaan luoda uusi ohjelmisto jonka loppullisesta käytöstä on vähäisesti tietoa on perusteltua kokeilla miten se toimii käytännössä jo suunnitteluvaiheessa.
+
+Ohjelmistojen käyttöymärsitöt muuttuvat ripeästi, uusien versioiden syntyessä ohjelmistot päivitetään heti. Tämän perusteella on perusteltua tehdä päivityksiä usein ja pitää ne pienenpi kokoisina jotta ne olisivat paremmin seurattavissa.
+
+Jatkuvan eskperimoinnin toteuttaminen ohjelmistotuotannosaa on siis merkittävä potentiaaline menettelytapa jolla on 
+merkittävät mahdolliset hyödyt asiakkaalle. Kaikki hyötyvät ominaisuuksista joiden hyödyllisyys perustuu tutkittuun konkreettiseen tietoon arvauksien sijaan.
